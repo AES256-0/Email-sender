@@ -1,0 +1,14 @@
+About:
+    A simple email client that sends emails,written in python3.7. 
+    You can send simple email or along with attachments.
+
+Requirements:
+    1.python3 need to be installed
+    2.work on linux/windows
+    
+How to use:
+    #python email_client.py
+
+
+
+for any queries, contact me on - email:-ashishbeckh7@gmail.com 
